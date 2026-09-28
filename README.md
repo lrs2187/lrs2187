@@ -9,8 +9,8 @@ C# & Python 程序员。也能写一点前端。
 
 ![](https://github-stats-extended.vercel.app/api/wakatime?username=lrs2187&layout=compact)
 
-![](https://github-stats-extended.vercel.app/api?username=lrsgzs&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
+![](https://github-stats-extended.vercel.app/api?username=lrs2187&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
 
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=lrsgzs&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=lrs2187&layout=compact)
 
-![](https://trophygithubreadmelang.cybee.dpdns.org/?username=lrsgzs)
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=lrs2187)
